@@ -16,11 +16,6 @@ Hierarchy,	Abstract	Class	and	Interface
 Implement	a Java method	that	returns	all	the	students	in	the	school	grouped
 by	the	first	letter	of	their	last	name.
 
-## A)
-Considering	the	structure	of	a	school,	create	the	diagram	that	describes	the
-domain	model	and	relationship	between	entities.	Some	of	the	possible	entities
-may	be	Principal,	Employee,	Student	and	Janitor.	Try	to	apply	the	concepts	of
-Hierarchy,	Abstract	Class	and	Interface.
 ```java
 @Override
     public Map<Character, List<Student>> getStudentsGroupByFirstLetterOfLastName() {
