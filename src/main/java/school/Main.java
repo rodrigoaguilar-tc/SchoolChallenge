@@ -10,7 +10,9 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
+/**
+ * Main class for program execution, the requested logic was tested in units tests.
+ */
 public class Main {
 
     public static void main(String [] args) {
